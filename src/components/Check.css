@@ -1,0 +1,11 @@
+.check {
+  color: rgba(27, 109, 185);
+  height: 100px;
+  width: 90%;
+  margin: auto;
+  border-radius: 5px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+}

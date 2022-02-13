@@ -1,0 +1,21 @@
+.attendance-report {
+  color: rgba(27, 109, 185);
+  height: 200px;
+  width: 90%;
+  margin: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.report {
+  margin: 60px;
+  font-weight: 800;
+  font-size: 2rem;
+}
+.text-green {
+  color: green;
+}
+.text-red {
+  color: red;
+}
